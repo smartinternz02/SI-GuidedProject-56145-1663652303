@@ -1,9 +1,9 @@
 # About Me
-## My name is Sagar Bangade
+## My name is Niharika Kancharla
 
-Smartinternz Dashboard Link- https://smartinternz.com/student-profile/feed/U0IyMDIyMDIyMTkzNg==
+Smartinternz Dashboard Link- https://smartinternz.com/Student/dashboard
 
-Google Developer Profile Link- https://g.dev/sagarbangade
+Google Developer Profile Link- https://g.dev/niharika78
 
 Project - Grocery Android App
 This Project is a part of Google Supported Virtual Internship - Android App Development Using Kotlin.
